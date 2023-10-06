@@ -1,0 +1,22 @@
+.banner {
+	background-image: url(../../image/capybara.jpg);
+	color: white ;
+	padding: 150px 0px;
+	background-size: cover ;
+	background-position:center ;
+	height: 100px;
+
+
+	
+
+
+}
+
+.banner h1 {
+	font-size: 50px ;
+}
+
+.banner h2 {
+	font-size: 30px ;
+	font-weight: lighter;
+}
